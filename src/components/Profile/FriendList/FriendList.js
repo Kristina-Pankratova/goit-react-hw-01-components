@@ -13,7 +13,7 @@ export default function FriendList({friends}) {
                isOnline= {friend.isOnline}
            />
            ))}
-   </ul>
+       </ul>
    )
 }
 

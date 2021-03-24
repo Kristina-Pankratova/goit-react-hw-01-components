@@ -1,18 +1,6 @@
 import PropTypes from 'prop-types';
 import s from './Statistics.module.css'
 
-// const colorPickerOption = [
-//     { color: '#fcba03' },
-//     { color: '#88fc03' },
-//     { color: '#03fcd7' },
-//     { color: '#0377fc' },
-//     { color: '#b503fc'},
-    
-// ]
-
-// const colorPick = colorPickerOption.map(col => { return col.color })
-
-
 
 export default function Statistics({ title, stats }) {
     return (
